@@ -1,0 +1,23 @@
+{
+  "name": "congressable",
+  "version": "1.0.0",
+  "description": "Tracker and Stream for the US Congress",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmicek/congressable.git"
+  },
+  "author": "Micek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmicek/congressable/issues"
+  },
+  "homepage": "https://github.com/cmicek/congressable#readme"
+}
